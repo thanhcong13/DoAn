@@ -1,0 +1,46 @@
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.deps.json
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.dll
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.pdb
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Core.dll
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Core.pdb
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.dll
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\refint\DoAn.OTo.Infrastrure.dll
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.pdb
+D:\Đồ án tốt nghiệp\BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\ref\DoAn.OTo.Infrastrure.dll
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.deps.json
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.dll
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.pdb
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Core.dll
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Core.pdb
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.AssemblyReference.cache
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.GeneratedMSBuildEditorConfig.editorconfig
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.AssemblyInfoInputs.cache
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.AssemblyInfo.cs
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.CoreCompileInputs.cache
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.sourcelink.json
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.1BA88A60.Up2Date
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.dll
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\refint\DoAn.OTo.Infrastrure.dll
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.pdb
+E:\BE_CONG_THANH\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\ref\DoAn.OTo.Infrastrure.dll
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.deps.json
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.dll
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Infrastrure.pdb
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Core.dll
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\bin\Debug\net6.0\DoAn.OTo.Core.pdb
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.AssemblyReference.cache
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.AssemblyInfoInputs.cache
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.AssemblyInfo.cs
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.CoreCompileInputs.cache
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.csproj.CopyComplete
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.dll
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\refint\DoAn.OTo.Infrastrure.dll
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\DoAn.OTo.Infrastrure.pdb
+D:\Đồ án tốt nghiệp\DOANTN\API_BanOTo\DoAn.OTo.Infrastrure\obj\Debug\net6.0\ref\DoAn.OTo.Infrastrure.dll

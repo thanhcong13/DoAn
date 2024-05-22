@@ -1,0 +1,471 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\controllers\\baoduongcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\controllers\\laithucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\laithurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\interfaces\\infrastrure\\ilaithurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:interfaces\\infrastrure\\ilaithurepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\interfaces\\infrastrure\\ilienherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:interfaces\\infrastrure\\ilienherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\interfaces\\service\\ilaithuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:interfaces\\service\\ilaithuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\services\\laithuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:services\\laithuservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\entities\\laithu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:entities\\laithu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\sanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\interfaces\\infrastrure\\isanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:interfaces\\infrastrure\\isanphamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\controllers\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\taikhoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:dto\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\interfaces\\infrastrure\\itaikhoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:interfaces\\infrastrure\\itaikhoanrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\entities\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:entities\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:services\\sanphamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\controllers\\lienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\entities\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:entities\\lienhe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\controllers\\hoadoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A8E4477-5ED1-43E6-B17C-744A7FD91ADE}|..\\DoAn.OTo.Api\\DoAn.OTo.Api.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.api\\controllers\\ctlienhecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\nhanvienrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\cuahangrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\lienherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\ctlienherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.core\\entities\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B043DDB8-8783-4246-AC4C-3AA263A0FB9F}|DoAn.OTo.Core.csproj|solutionrelative:entities\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\baoduongrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5154EA39-222C-4EBF-8ACF-608923665062}|..\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj|e:\\be_cong_thanh\\api_banoto\\doan.oto.infrastrure\\repository\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LaiThuService.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Services\\LaiThuService.cs",
+              "RelativeDocumentMoniker": "Services\\LaiThuService.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Services\\LaiThuService.cs",
+              "RelativeToolTip": "Services\\LaiThuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:02:24.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CTLienHeController.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\CTLienHeController.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Controllers\\CTLienHeController.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\CTLienHeController.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Controllers\\CTLienHeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:25:20.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\SanPham.cs",
+              "RelativeDocumentMoniker": "Entities\\SanPham.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\SanPham.cs",
+              "RelativeToolTip": "Entities\\SanPham.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwBoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:51:27.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaiThuController.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\LaiThuController.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Controllers\\LaiThuController.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\LaiThuController.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Controllers\\LaiThuController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T14:26:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILienHeRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ILienHeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Infrastrure\\ILienHeRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ILienHeRepository.cs",
+              "RelativeToolTip": "Interfaces\\Infrastrure\\ILienHeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:03:19.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Controllers\\SanPhamController.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Controllers\\SanPhamController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:59:58.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaoDuongController.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\BaoDuongController.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Controllers\\BaoDuongController.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\BaoDuongController.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Controllers\\BaoDuongController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T02:20:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILaiThuService.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Service\\ILaiThuService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Service\\ILaiThuService.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Service\\ILaiThuService.cs",
+              "RelativeToolTip": "Interfaces\\Service\\ILaiThuService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:02:52.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LaiThuRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\LaiThuRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\LaiThuRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\LaiThuRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\LaiThuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAtwBYAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T14:02:05.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILaiThuRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ILaiThuRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Infrastrure\\ILaiThuRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ILaiThuRepository.cs",
+              "RelativeToolTip": "Interfaces\\Infrastrure\\ILaiThuRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:02:47.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LienHe.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\LienHe.cs",
+              "RelativeDocumentMoniker": "Entities\\LienHe.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\LienHe.cs",
+              "RelativeToolTip": "Entities\\LienHe.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:49:18.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Controllers\\TaiKhoanController.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\TaiKhoanController.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Controllers\\TaiKhoanController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwEgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:56:35.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SanPhamRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\SanPhamRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\SanPhamRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\SanPhamRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\SanPhamRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAkwD8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:21:07.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LaiThu.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\LaiThu.cs",
+              "RelativeDocumentMoniker": "Entities\\LaiThu.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\LaiThu.cs",
+              "RelativeToolTip": "Entities\\LaiThu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:24:56.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISanPhamRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ISanPhamRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Infrastrure\\ISanPhamRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ISanPhamRepository.cs",
+              "RelativeToolTip": "Interfaces\\Infrastrure\\ISanPhamRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:00:01.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaiKhoanRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\TaiKhoanRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\TaiKhoanRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\TaiKhoanRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\TaiKhoanRepository.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAswF8AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:02:09.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITaiKhoanRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ITaiKhoanRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\Infrastrure\\ITaiKhoanRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Interfaces\\Infrastrure\\ITaiKhoanRepository.cs",
+              "RelativeToolTip": "Interfaces\\Infrastrure\\ITaiKhoanRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:01:35.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RequestDTO.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\DTO\\RequestDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RequestDTO.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\DTO\\RequestDTO.cs",
+              "RelativeToolTip": "DTO\\RequestDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T14:23:20.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LienHeController.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\LienHeController.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Controllers\\LienHeController.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\LienHeController.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Controllers\\LienHeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:16:20.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Program.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Program.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwEMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:48:54.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SanPhamService.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Services\\SanPhamService.cs",
+              "RelativeDocumentMoniker": "Services\\SanPhamService.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Services\\SanPhamService.cs",
+              "RelativeToolTip": "Services\\SanPhamService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:55:04.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HoaDonController.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\HoaDonController.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Api\\Controllers\\HoaDonController.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Api\\Controllers\\HoaDonController.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Api\\Controllers\\HoaDonController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T17:14:11.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LienHeRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\LienHeRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\LienHeRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\LienHeRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\LienHeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:03:30.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CTLienHeRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\CTLienHeRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\CTLienHeRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\CTLienHeRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\CTLienHeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:04:02.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CuaHangRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\CuaHangRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\CuaHangRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\CuaHangRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\CuaHangRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:55:38.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NhanVienRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\NhanVienRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\NhanVienRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\NhanVienRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\NhanVienRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:55:43.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\BaseRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\BaseRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:04:18.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaoDuongRepository.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\BaoDuongRepository.cs",
+              "RelativeDocumentMoniker": "..\\DoAn.OTo.Infrastrure\\Repository\\BaoDuongRepository.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Infrastrure\\Repository\\BaoDuongRepository.cs",
+              "RelativeToolTip": "..\\DoAn.OTo.Infrastrure\\Repository\\BaoDuongRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T05:04:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TaiKhoan.cs",
+              "DocumentMoniker": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\TaiKhoan.cs",
+              "RelativeDocumentMoniker": "Entities\\TaiKhoan.cs",
+              "ToolTip": "E:\\BE_CONG_THANH\\API_BanOTo\\DoAn.OTo.Core\\Entities\\TaiKhoan.cs",
+              "RelativeToolTip": "Entities\\TaiKhoan.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:57:07.375Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
