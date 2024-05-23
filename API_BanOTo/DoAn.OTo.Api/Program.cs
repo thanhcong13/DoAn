@@ -3,6 +3,7 @@ using DoAn.OTo.Core.Interfaces.Service;
 using DoAn.OTo.Core.Services;
 using DoAn.OTo.Infrastrure.Repository;
 using Microsoft.Extensions.FileProviders;
+using OfficeOpenXml;
 
 namespace DoAn.OTo.Api
 {
@@ -65,8 +66,8 @@ namespace DoAn.OTo.Api
             builder.Services.AddScoped(typeof(IBaseRepository<>),typeof(BaseRepository<>));
             builder.Services.AddScoped(typeof(IBaseService<>),typeof(BaseService<>));
 
-           
-            
+
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
 
             var app = builder.Build();

@@ -3,9 +3,9 @@
     <div class="mt-4">
       <h1 class="heading-tb mt-3 mb-3">Thông tin liên hệ</h1>
     </div>
-    <!-- <div>
-      <v-btn @click="openDialogAdd()" class="mb-4" color="secondary">Thêm mới</v-btn>
-    </div> -->
+    <div>
+      <v-btn @click="exportExcel()" class="mb-4" color="secondary">Xuất file</v-btn>
+    </div>
     <v-table>
       <thead>
         <tr>
@@ -95,6 +95,7 @@ import LienHeAdd from "./LienHeAdd.vue";
 import LienHeEdit from "./LienHeEdit.vue";
 const desserts = ref([]);
 const isOpenAdd = ref(false);
+const isExport = ref(false);
 const totalPage = ref(0);
 const totalRecords = ref(0);
 const dialog = ref(false);
@@ -130,6 +131,32 @@ const getData = async () => {
     totalRecords.value = res.data.count;
   } catch (e) {
     console.error(e);
+  }
+};
+
+
+const exportExcel = async () => {
+  try {
+    // Gọi API để lấy file Excel từ server
+    const response = await axios.get('http://localhost:5222/api/LienHe/ExportToExcel/export', {
+      responseType: 'blob', // Đặt responseType thành 'blob' để trả về dữ liệu dạng Blob
+    });
+
+    // Tạo URL cho Blob
+    const url = window.URL.createObjectURL(new Blob([response.data]));
+
+    // Tạo một thẻ a để tải xuống file
+    const a = document.createElement('a');
+    a.href = url;
+     const currentDate = new Date();
+    a.download = `LienHe - ${currentDate}.xlsx`; // Đặt tên file mà bạn muốn
+    document.body.appendChild(a);
+    a.click();
+
+    // Xóa URL sau khi tải xuống hoàn tất
+    window.URL.revokeObjectURL(url);
+  } catch (error) {
+    console.error('Error exporting Excel file:', error);
   }
 };
 const openDialogAdd = () => {

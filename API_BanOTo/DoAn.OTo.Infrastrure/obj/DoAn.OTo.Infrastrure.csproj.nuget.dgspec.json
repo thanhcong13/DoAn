@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj": {}
+    "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj": {}
   },
   "projects": {
-    "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj": {
+    "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj",
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj",
         "projectName": "DoAn.OTo.Core",
-        "projectPath": "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj",
         "packagesPath": "C:\\Users\\nguyencongthanh\\.nuget\\packages\\",
-        "outputPath": "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Core\\obj\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguyencongthanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.1.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -59,14 +65,14 @@
         }
       }
     },
-    "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj": {
+    "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj",
+        "projectUniqueName": "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj",
         "projectName": "DoAn.OTo.Infrastrure",
-        "projectPath": "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj",
+        "projectPath": "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Infrastrure\\DoAn.OTo.Infrastrure.csproj",
         "packagesPath": "C:\\Users\\nguyencongthanh\\.nuget\\packages\\",
-        "outputPath": "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Infrastrure\\obj\\",
+        "outputPath": "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Infrastrure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguyencongthanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj": {
-                "projectPath": "D:\\Đồ án tốt nghiệp\\DOANTN\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj"
+              "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj": {
+                "projectPath": "D:\\Đồ án tốt nghiệp\\DoAn\\API_BanOTo\\DoAn.OTo.Core\\DoAn.OTo.Core.csproj"
               }
             }
           }
@@ -102,6 +108,10 @@
             "Dapper": {
               "target": "Package",
               "version": "[2.1.35, )"
+            },
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.1.2, )"
             },
             "MySql.Data.EntityFrameworkCore": {
               "target": "Package",

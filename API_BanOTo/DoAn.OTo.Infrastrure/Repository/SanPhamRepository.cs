@@ -131,6 +131,30 @@ namespace DoAn.OTo.Infrastrure.Repository
                 return new FormatedResponse() { Exception = ex, StatusCode = EnumStatusCode.StatusCode500};
             }
         }
+        public async Task<FormatedResponse> GetAllProductsByHang(string tenHang)
+        {
+            try
+            {
+                var sqlCommand = "SELECT * FROM sanpham WHERE TenHang = @TenHang";
+
+                using (var connection = new MySqlConnection(ConnectionString))
+                {
+                    await connection.OpenAsync();  // Mở kết nối
+
+                    var parameters = new DynamicParameters();
+                    parameters.Add("@TenHang", tenHang);
+
+                    var res = await connection.QueryAsync(sqlCommand, parameters);
+
+                    return new FormatedResponse() { InnerBody = res };
+                }
+            }
+            catch (Exception ex)
+            {
+
+                return new FormatedResponse() { Exception = ex, StatusCode = EnumStatusCode.StatusCode500 };
+            }
+        }
         public async Task<FormatedResponse> GetById(Guid Id)
         {
             try

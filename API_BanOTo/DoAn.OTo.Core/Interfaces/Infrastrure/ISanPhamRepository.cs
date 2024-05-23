@@ -19,5 +19,6 @@ namespace DoAn.OTo.Core.Interfaces.Infrastrure
         Task<FormatedResponse> GetAllHang();
         Task<FormatedResponse> GetAllProducts();
         Task<FormatedResponse> GetById (Guid Id);
+        Task<FormatedResponse> GetAllProductsByHang(string tenHang);
     }
 }

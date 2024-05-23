@@ -107,6 +107,12 @@ namespace DoAn.OTo.Api.Controllers
             var response = await _sanPhamRepository.GetById(id);
             return Ok(response);
         }
+        [HttpGet]
+        public async Task<IActionResult> GetAllProductsByHang(string tenHang)
+        {
+            var response = await _sanPhamRepository.GetAllProductsByHang(tenHang);
+            return Ok(response);
+        }
 
         [HttpPost]
         public async Task<IActionResult> Upload(IFormFile file)

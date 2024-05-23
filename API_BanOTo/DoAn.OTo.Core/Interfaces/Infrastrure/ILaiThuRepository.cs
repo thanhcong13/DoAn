@@ -11,6 +11,8 @@ namespace DoAn.OTo.Core.Interfaces.Infrastrure
     public interface ILaiThuRepository :IBaseRepository<LaiThu>
     {
         Task<FormatedResponse> GetPage(int page, int pageSize);
+        Task<IEnumerable<LaiThu>> GetAll();
+
 
     }
 }

@@ -17,5 +17,6 @@ namespace DoAn.OTo.Core.Entities
         public string NoiDung { get; set; }
         public string? TenSP { get; set; }
 
+
     }
 }

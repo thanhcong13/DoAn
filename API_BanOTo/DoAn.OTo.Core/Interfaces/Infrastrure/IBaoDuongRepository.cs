@@ -12,5 +12,7 @@ namespace DoAn.OTo.Core.Interfaces.Infrastrure
     {
         Task<FormatedResponse> GetPage(int page, int pageSize);
 
+        Task<IEnumerable<BaoDuong>> GetAll();
+
     }
 }

@@ -3,9 +3,9 @@
     <div class="mt-4">
       <h1 class="heading-tb mt-3">Thông tin bảo dưỡng</h1>
     </div>
-    <!-- <div>
-      <v-btn @click="openDialogAdd(item)" class="mb-4" color="secondary">Thêm mới</v-btn>
-    </div> -->
+    <div>
+      <v-btn @click="exportExcel()" class="mb-4" color="secondary">Xuất file</v-btn>
+    </div>
     <v-table>
       <thead>
         <tr>
@@ -132,6 +132,32 @@ const getData = async () => {
     totalRecords.value = res.data.count;
   } catch (e) {
     console.error(e);
+  }
+};
+
+const exportExcel = async () => {
+  try {
+    // Gọi API để lấy file Excel từ server
+    const response = await axios.get('http://localhost:5222/api/BaoDuong/ExportToExcel/export', {
+      responseType: 'blob', // Đặt responseType thành 'blob' để trả về dữ liệu dạng Blob
+    });
+
+    // Tạo URL cho Blob
+    const url = window.URL.createObjectURL(new Blob([response.data]));
+
+    // Tạo một thẻ a để tải xuống file
+    const a = document.createElement('a');
+    a.href = url;
+    const currentDate = new Date();
+
+    a.download = `BaoDuong - ${currentDate}.xlsx`; // Đặt tên file mà bạn muốn
+    document.body.appendChild(a);
+    a.click();
+
+    // Xóa URL sau khi tải xuống hoàn tất
+    window.URL.revokeObjectURL(url);
+  } catch (error) {
+    console.error('Error exporting Excel file:', error);
   }
 };
 const openDialogAdd = () => {

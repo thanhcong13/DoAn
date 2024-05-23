@@ -26,5 +26,15 @@ namespace DoAn.OTo.Infrastrure.Repository
                 return new FormatedResponse() { InnerBody = response, Count = response2 };
             }
         }
+        public async Task<IEnumerable<LienHe>> GetAll()
+        {
+            using (SqlConnection = new MySqlConnection(ConnectionString))
+            {
+                var query = $"SELECT * FROM LienHe";
+                return  await SqlConnection.QueryAsync<LienHe>(query);
+
+                
+            }
+        }
     }
 }
